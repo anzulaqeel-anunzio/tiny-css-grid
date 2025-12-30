@@ -1,0 +1,14 @@
+/* Developed for Anunzio International by Anzul Aqeel. Contact +971545822608 or +971585515742. Linkedin Profile: linkedin.com/in/anzulaqeel */
+
+/* 
+ * Developed for Anunzio International by Anzul Aqeel
+ * Contact +971545822608 or +971585515742
+ */
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(var(--min-width, 250px), 1fr));
+    gap: var(--gap, 1rem);
+}
+
+/* Developed for Anunzio International by Anzul Aqeel. Contact +971545822608 or +971585515742. Linkedin Profile: linkedin.com/in/anzulaqeel */
